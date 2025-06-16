@@ -19,8 +19,8 @@ This project is the backend server for the TLDR application. It provides APIs fo
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name/server
+   git clone [https://github.com/rishavafk/Meet_Summarizer_Extension]
+   cd Meet_Summarizer_Extension/server
    ```
 
 2. **Install dependencies**
